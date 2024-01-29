@@ -46,7 +46,7 @@ body {
 }
 
 #noButton {
-    
+    position: absolute;
     margin: 150px;
     transition: 0.5s;
 }
