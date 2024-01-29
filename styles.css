@@ -32,6 +32,28 @@ body {
 .gif_container {
     margin-top: 20px; /* Add margin for better spacing */
 }
+.gif_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#enter {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+#noButton {
+    
+    margin: 150px;
+    transition: 0.5s;
+}
+
+#yesButton {
+    margin-right: 150px;
+}
 
 /* Adjustments for smaller screens */
 @media screen and (max-width: 768px) {
