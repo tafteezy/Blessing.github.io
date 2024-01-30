@@ -46,7 +46,6 @@ body {
 }
 
 #noButton {
-    
     margin: 150px;
     transition: 0.5s;
 }
@@ -70,7 +69,6 @@ body {
     }
     
     #noButton {
-        
         margin: 20px; /* Adjust margin for smaller screens */
     }
     
