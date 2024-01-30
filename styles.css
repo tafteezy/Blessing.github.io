@@ -70,6 +70,7 @@ body {
     }
     
     #noButton {
+        position: absolute;
         margin: 20px; /* Adjust margin for smaller screens */
     }
     
